@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 1eb9aa51a08003443b451aeba1666ee9
+timeCreated: 1481605726
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MetoolX4_0
+    21300002: MetoolX4_1
+    21300004: MetoolX4_2
+    21300006: MetoolX4_3
+    21300008: MetoolX4_4
+    21300010: MetoolX4_5
+    21300012: MetoolX4_6
+    21300014: MetoolX4_7
+    21300016: MetoolX4_8
+    21300018: MetoolX4_9
+    21300020: MetoolX4_10
+    21300022: MetoolX4_11
+    21300024: MetoolX4_12
+    21300026: MetoolX4_13
+    21300028: MetoolX4_14
+    21300030: MetoolX4_15
+    21300032: MetoolX4_16
+    21300034: MetoolX4_17
+    21300036: MetoolX4_18
+    21300038: MetoolX4_19
+    21300040: MetoolX4_20
+    21300042: MetoolX4_21
+    21300044: MetoolX4_22
+    21300046: MetoolX4_23
+    21300048: MetoolX4_24
+    21300050: MetoolX4_25
+    21300052: MetoolX4_26
+    21300054: MetoolX4_27
+    21300056: MetoolX4_28
+    21300058: MetoolX4_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetoolX4_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 138
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 137
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 137
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 137
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 139
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 139
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 141
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 142
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 142
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 91
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 91
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 91
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 92
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 94
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 94
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 94
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 94
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 96
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 54
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 55
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 56
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 57
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 36
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetoolX4_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 16
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

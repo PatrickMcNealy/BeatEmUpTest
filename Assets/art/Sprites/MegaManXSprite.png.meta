@@ -1,0 +1,1374 @@
+fileFormatVersion: 2
+guid: f5c6bea181ab5e543ba60d8349e0358b
+timeCreated: 1483732963
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegaManXSprite_0
+    21300002: MegaManXSprite_1
+    21300004: MegaManXSprite_2
+    21300006: MegaManXSprite_3
+    21300008: MegaManXSprite_4
+    21300010: MegaManXSprite_5
+    21300012: MegaManXSprite_6
+    21300014: MegaManXSprite_7
+    21300016: MegaManXSprite_8
+    21300018: MegaManXSprite_9
+    21300020: MegaManXSprite_10
+    21300022: MegaManXSprite_11
+    21300024: MegaManXSprite_12
+    21300026: MegaManXSprite_13
+    21300028: MegaManXSprite_14
+    21300030: MegaManXSprite_15
+    21300032: MegaManXSprite_16
+    21300034: MegaManXSprite_17
+    21300036: MegaManXSprite_18
+    21300038: MegaManXSprite_20
+    21300040: MegaManXSprite_22
+    21300042: MegaManXSprite_24
+    21300044: MegaManXSprite_26
+    21300046: MegaManXSprite_37
+    21300048: MegaManXSprite_39
+    21300050: MegaManXSprite_41
+    21300052: MegaManXSprite_46
+    21300054: MegaManXSprite_48
+    21300056: MegaManXSprite_50
+    21300058: MegaManXSprite_52
+    21300060: MegaManXSprite_55
+    21300062: MegaManXSprite_64
+    21300064: MegaManXSprite_66
+    21300066: MegaManXSprite_76
+    21300068: MegaManXSprite_77
+    21300070: MegaManXSprite_19
+    21300072: MegaManXSprite_21
+    21300074: MegaManXSprite_23
+    21300076: MegaManXSprite_25
+    21300078: MegaManXSprite_27
+    21300080: MegaManXSprite_28
+    21300082: MegaManXSprite_29
+    21300084: MegaManXSprite_30
+    21300086: MegaManXSprite_31
+    21300088: MegaManXSprite_32
+    21300090: MegaManXSprite_33
+    21300092: MegaManXSprite_34
+    21300094: MegaManXSprite_35
+    21300096: MegaManXSprite_36
+    21300098: MegaManXSprite_38
+    21300100: MegaManXSprite_40
+    21300102: MegaManXSprite_42
+    21300104: MegaManXSprite_43
+    21300106: MegaManXSprite_44
+    21300108: MegaManXSprite_45
+    21300110: MegaManXSprite_47
+    21300112: MegaManXSprite_49
+    21300114: MegaManXSprite_51
+    21300116: MegaManXSprite_53
+    21300118: MegaManXSprite_54
+    21300120: MegaManXSprite_56
+    21300122: MegaManXSprite_57
+    21300124: MegaManXSprite_58
+    21300126: MegaManXSprite_59
+    21300128: MegaManXSprite_60
+    21300130: MegaManXSprite_61
+    21300132: MegaManXSprite_62
+    21300134: MegaManXSprite_63
+    21300136: MegaManXSprite_65
+    21300138: MegaManXSprite_67
+    21300140: MegaManXSprite_68
+    21300142: MegaManXSprite_69
+    21300144: MegaManXSprite_70
+    21300146: MegaManXSprite_71
+    21300148: MegaManXSprite_72
+    21300150: MegaManXSprite_73
+    21300152: MegaManXSprite_74
+    21300154: MegaManXSprite_75
+    21300156: MegaManXSprite_78
+    21300158: MegaManXSprite_79
+    21300160: MegaManXSprite_80
+    21300162: MegaManXSprite_81
+    21300164: MegaManXSprite_82
+    21300166: MegaManXSprite_83
+    21300168: MegaManXSprite_84
+    21300170: MegaManXSprite_85
+    21300172: MegaManXSprite_86
+    21300174: MegaManXSprite_87
+    21300176: MegaManXSprite_88
+    21300178: MegaManXSprite_89
+    21300180: MegaManXSprite_90
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegaManXSprite_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 672
+        width: 60
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 672
+        width: 60
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 672
+        width: 74
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 672
+        width: 90
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 672
+        width: 90
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 736
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 590
+        width: 92
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 590
+        width: 108
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 590
+        width: 120
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 590
+        width: 135
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 84
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 519
+        width: 84
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 518
+        width: 92
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 519
+        width: 92
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_14
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 574
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 522
+        width: 80
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 556
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 548
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 534
+        width: 30
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 473
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 421
+        width: 80
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 474
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 422
+        width: 80
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 473
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 419
+        width: 84
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 474
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_26
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 420
+        width: 86
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 455
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 456
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 447
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 448
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 433
+        width: 30
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 434
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 436
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 433
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 434
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 386
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 332
+        width: 96
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 385
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 331
+        width: 102
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_40
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 388
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_41
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 336
+        width: 84
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_42
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 360
+        width: 22
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 346
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_44
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 345
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_45
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 348
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_46
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 332
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 298
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 242
+        width: 84
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_49
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 295
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_50
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 239
+        width: 84
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 240
+        width: 86
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 282
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_54
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 279
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 266
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 270
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 267
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 264
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_59
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 258
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_60
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 255
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 252
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 236
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 178
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 124
+        width: 92
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 178
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 124
+        width: 92
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 162
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_68
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 162
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_69
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 150
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_70
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 150
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 138
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 138
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_73
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 122
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_74
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 122
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 80
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_77
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 14
+        width: 80
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_78
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_79
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 46
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_80
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 50
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_81
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 48
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 36
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_83
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 38
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_84
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 38
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_85
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 40
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_86
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 24
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_87
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 26
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_88
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 28
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_89
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 8
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaManXSprite_90
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 10
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
