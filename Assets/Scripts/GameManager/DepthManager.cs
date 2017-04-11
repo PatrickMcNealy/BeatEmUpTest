@@ -2,7 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class DepthManager : MonoBehaviour {
+public class DepthManager : MonoBehaviour
+{
 
     GameObject[] allSprites;
     //List<GameObject> allGO;
@@ -11,12 +12,12 @@ public class DepthManager : MonoBehaviour {
 
     public int objectCount;
 
-	// Use this for initialization
-	void Start ()
+    // Use this for initialization
+    void Start()
     {
         GatherObjects();
     }
-	
+
     public void GatherObjects()
     {
         GameObject[] surfaces = GameObject.FindGameObjectsWithTag("SurfaceSprite");
@@ -36,7 +37,7 @@ public class DepthManager : MonoBehaviour {
         }
 
         names = new string[allSprites.Length];
-        for(int i = 0; i< allSprites.Length; i++)
+        for (int i = 0; i < allSprites.Length; i++)
         {
             names[i] = allSprites[i].name;
         }
@@ -86,7 +87,7 @@ public class DepthManager : MonoBehaviour {
         #region SortDepth
         for (int lowCompare = 0; lowCompare < allSprites.Length; lowCompare++)
         {
-            for(int highCompare = lowCompare +1; highCompare < allSprites.Length; highCompare++)
+            for (int highCompare = lowCompare + 1; highCompare < allSprites.Length; highCompare++)
             {
                 int compareResult = allSprites[lowCompare].GetComponent<DrawableObject>().CheckDepthAgainst(allSprites[highCompare].GetComponent<DrawableObject>());
 
@@ -101,7 +102,7 @@ public class DepthManager : MonoBehaviour {
         #endregion
 
         //ASSIGN ITEMS DEPTH VALUES BASED ON ORDER
-        for (int i = 0; i< allSprites.Length; i++)
+        for (int i = 0; i < allSprites.Length; i++)
         {
             allSprites[i].GetComponent<SpriteRenderer>().sortingOrder = i;
         }

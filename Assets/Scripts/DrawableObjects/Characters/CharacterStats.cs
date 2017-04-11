@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CharacterStats : MonoBehaviour {
+public class CharacterStats : MonoBehaviour
+{
 
     public int invFrames = 0;
     public int lives = 0;
@@ -10,7 +11,7 @@ public class CharacterStats : MonoBehaviour {
 
     public void FixedUpdate()
     {
-        if(invFrames > 0)
+        if (invFrames > 0)
         {
             invFrames--;
         }

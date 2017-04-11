@@ -3,14 +3,15 @@ using System.Collections;
 
 //DrawableObject is applied to sprite objects, as it deals with handling gravity and drawing depth.
 
-public class DrawableObject : MonoBehaviour {
+public class DrawableObject : MonoBehaviour
+{
 
     [SerializeField]
     bool isCharacter = false;
     float height = 0f; //Surface height for surfaces, air height for characters.
-    //float widthThreshold = 0f;
+                       //float widthThreshold = 0f;
 
-        [SerializeField]
+    [SerializeField]
     GameObject parent;
     Transform groundTransform; //Point of Origin
 
@@ -36,7 +37,7 @@ public class DrawableObject : MonoBehaviour {
     void Start()
     {
         depthCheckBox = transform.FindChild("DepthCheck").GetComponent<Collider2D>();
-        
+
 
         if (isCharacter)
         {
@@ -49,7 +50,7 @@ public class DrawableObject : MonoBehaviour {
             thickness = parent.GetComponent<Collider2D>().bounds.size.y - .1f;
         }
     }
-	
+
     public void UpdateValues()
     {
         if (isCharacter)
@@ -76,7 +77,7 @@ public class DrawableObject : MonoBehaviour {
 
         this.UpdateValues();
         dObj.UpdateValues();
-        if(this.isCharacter == dObj.isCharacter)//If both objects are of the same type.
+        if (this.isCharacter == dObj.isCharacter)//If both objects are of the same type.
         {
             #region surfaces and objects
             if (!isCharacter)
@@ -96,7 +97,7 @@ public class DrawableObject : MonoBehaviour {
                         }
                     }
                 }
-                if(dObj.groundTrigger != null)
+                if (dObj.groundTrigger != null)
                 {
                     if (parent.GetComponent<Collider2D>().IsTouching(dObj.groundTrigger.GetComponent<Collider2D>()))
                     {
@@ -110,7 +111,7 @@ public class DrawableObject : MonoBehaviour {
                         }
                     }
                 }
-                
+
 
                 //IF NOT COLLIDING
                 if (groundTransform.position.y < dObj.groundTransform.position.y)
@@ -143,7 +144,7 @@ public class DrawableObject : MonoBehaviour {
         {
             if (this.isCharacter)
             {
-                if(height >= dObj.height)
+                if (height >= dObj.height)
                 {
                     return 1;
                 }
@@ -155,7 +156,7 @@ public class DrawableObject : MonoBehaviour {
                     }
                     else
                     {
-                        
+
                         if (groundTransform.position.y < dObj.groundTransform.position.y + dObj.thickness)
                         {
                             if (isShot)
@@ -215,7 +216,7 @@ public class DrawableObject : MonoBehaviour {
                             }
                             else
                             {
-                                localX = groundTransform.position.x + ((dObj.groundTransform.position.y-(groundTransform.position.y + (thickness / 2f)) ) / slope);
+                                localX = groundTransform.position.x + ((dObj.groundTransform.position.y - (groundTransform.position.y + (thickness / 2f))) / slope);
                             }
                             if (dObj.groundTransform.position.x < localX)
                             {

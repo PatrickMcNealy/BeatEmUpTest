@@ -1,13 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GameCommands : MonoBehaviour {
+public class GameCommands : MonoBehaviour
+{
 
     static GameObject manager;
 
     public static void SetGameManager(GameObject newManager)
     {
-        manager = newManager; 
+        manager = newManager;
     }
 
     public static void ResetDepth()

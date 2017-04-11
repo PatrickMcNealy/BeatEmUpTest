@@ -1,12 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Camera : MonoBehaviour {
+public class Camera : MonoBehaviour
+{
 
     public GameObject target;
 
     float movementThresholdX = 3f;
-    
+
 
     // Update is called once per frame
     void Update()

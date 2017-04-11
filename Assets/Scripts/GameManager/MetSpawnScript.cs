@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MetSpawnScript : MonoBehaviour {
-    
+public class MetSpawnScript : MonoBehaviour
+{
+
 
     long frames = 0;
     int count = 1;
@@ -13,17 +14,18 @@ public class MetSpawnScript : MonoBehaviour {
 
     DepthManager depthManager;
 
-	// Use this for initialization
-	void Start ()
+    // Use this for initialization
+    void Start()
     {
         depthManager = GetComponent<DepthManager>();
-	}
-	
-	// Update is called once per frame
-	void FixedUpdate () {
+    }
+
+    // Update is called once per frame
+    void FixedUpdate()
+    {
         frames++;
 
-        if(frames % 150 == 0)//150
+        if (frames % 150 == 0)//150
         {
             if (depthManager.objectCount < 25)
             {
@@ -42,5 +44,5 @@ public class MetSpawnScript : MonoBehaviour {
                 GameCommands.ResetDepth();
             }
         }
-	}
+    }
 }

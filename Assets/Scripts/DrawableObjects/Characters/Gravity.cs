@@ -2,7 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Gravity : MonoBehaviour {
+public class Gravity : MonoBehaviour
+{
 
     public bool grounded = true;
     public GameObject parent;
@@ -13,7 +14,7 @@ public class Gravity : MonoBehaviour {
 
     public float yVel = 0f;
     public float yOffset = 0f;
-    
+
     //Rigidbody2D prb;
     Animator animator;
 
@@ -28,9 +29,9 @@ public class Gravity : MonoBehaviour {
         parentCollider = parent.GetComponent<Collider2D>();
         groundTriggerCollider = groundCheck.GetComponent<Collider2D>();
     }
-	
-	// Update is called once per frame
-	void FixedUpdate ()
+
+    // Update is called once per frame
+    void FixedUpdate()
     {
         //FALL HERE
         if (!grounded)
@@ -53,7 +54,7 @@ public class Gravity : MonoBehaviour {
                 if (groundTriggerCollider.IsTouching(surfaces[i].GetComponentInParent<Collider2D>()))
                 {
                     //IF COLLIDING, DO NOTHING BECAUSE YOU'RE ABOVE IT.
-                    if(yOffset <= surfaces[i].GetComponent<SurfaceHeight>().height)
+                    if (yOffset <= surfaces[i].GetComponent<SurfaceHeight>().height)
                     {
                         stayGrounded = true;
                     }

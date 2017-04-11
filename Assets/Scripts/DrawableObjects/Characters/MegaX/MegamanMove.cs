@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MegamanMove : MonoBehaviour {
+public class MegamanMove : MonoBehaviour
+{
 
     Vector2 spawnPoint = new Vector2(-3f, -1f);
 
@@ -24,19 +25,19 @@ public class MegamanMove : MonoBehaviour {
 
     public HudManager hud;
 
-	// Use this for initialization
-	void Start ()
+    // Use this for initialization
+    void Start()
     {
         charStats = GetComponent<CharacterStats>();
         grav = megaman.GetComponent<Gravity>();
         animator = megaman.GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
     }
-	
-	// Update is called once per frame
-	void FixedUpdate ()
+
+    // Update is called once per frame
+    void FixedUpdate()
     {
-        if(invFrames > 0)
+        if (invFrames > 0)
         {
             invFrames--;
         }
@@ -45,7 +46,7 @@ public class MegamanMove : MonoBehaviour {
         Vector3 newVel = new Vector3(0f, 0f, 0f);
         if (animator.GetCurrentAnimatorStateInfo(0).IsName("Knockback"))
         {
-            if(megaman.GetComponent<SpriteRenderer>().flipX == true)
+            if (megaman.GetComponent<SpriteRenderer>().flipX == true)
             {
                 newVel = new Vector3(2f, 0f, 0f);
             }
@@ -172,15 +173,15 @@ public class MegamanMove : MonoBehaviour {
 
         if (megaman.GetComponent<SpriteRenderer>().flipX)
         {
-            hitbox.transform.localScale = new Vector3(-1,1,1);
+            hitbox.transform.localScale = new Vector3(-1, 1, 1);
         }
         else
         {
             hitbox.transform.localScale = new Vector3(1, 1, 1);
         }
-        
 
-        if(megaman.transform.localPosition.y < -20f)
+
+        if (megaman.transform.localPosition.y < -20f)
         {
             respawn();
         }
@@ -203,7 +204,7 @@ public class MegamanMove : MonoBehaviour {
             grav.transform.localPosition = new Vector3(0, grav.yOffset);
             this.transform.position = spawnPoint;
             hud.setLives(charStats.lives, 1);
-            animator.Play("IdleAnimation",-1);
+            animator.Play("IdleAnimation", -1);
         }
         else
         {
@@ -212,5 +213,5 @@ public class MegamanMove : MonoBehaviour {
         }
     }
 
-    
+
 }

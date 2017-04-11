@@ -1,18 +1,19 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MegamanDmgBox : MonoBehaviour {
+public class MegamanDmgBox : MonoBehaviour
+{
 
     Animator anim;
     public GameObject groundGO;
     Transform groundTransform;
 
-	// Use this for initialization
-	void Start ()
+    // Use this for initialization
+    void Start()
     {
         anim = GetComponentInParent<Animator>();
         groundTransform = groundGO.GetComponent<Transform>();
-	}
+    }
 
     void OnTriggerEnter2D(Collider2D other)
     {

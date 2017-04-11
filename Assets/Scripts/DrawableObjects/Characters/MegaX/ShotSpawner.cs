@@ -1,23 +1,24 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ShotSpawner : MonoBehaviour {
+public class ShotSpawner : MonoBehaviour
+{
 
     public GameObject superBlast;
 
     public GameObject parent;
     Transform groundTransform;
-    
-	// Use this for initialization
-	void Start ()
+
+    // Use this for initialization
+    void Start()
     {
         groundTransform = parent.GetComponent<Transform>();
-	}
-	
+    }
+
     public void SuperBlast()
     {
         GameObject blast = (GameObject)Instantiate(superBlast);
-        
+
         blast.GetComponent<Rigidbody2D>().transform.position = new Vector3(groundTransform.position.x, groundTransform.position.y, groundTransform.position.z);
         bool direction = (!GetComponent<SpriteRenderer>().flipX);
 

@@ -1,8 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MetDmgBox : MonoBehaviour {
-    
+public class MetDmgBox : MonoBehaviour
+{
+
     public GameObject groundGO;
     Transform groundTransform;
     static CharacterBase XSprite;
@@ -15,7 +16,7 @@ public class MetDmgBox : MonoBehaviour {
 
     void OnTriggerStay2D(Collider2D other)
     {
-        if(XSprite == null)
+        if (XSprite == null)
         {
             XSprite = other.GetComponent<CharacterBase>();
         }

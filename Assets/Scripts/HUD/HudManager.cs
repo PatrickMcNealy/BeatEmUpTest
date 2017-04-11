@@ -3,8 +3,8 @@ using System.Collections;
 using UnityEngine.UI;
 using System;
 
-public class HudManager : MonoBehaviour {
-
+public class HudManager : MonoBehaviour
+{
     [SerializeField]
     GameObject livesText;
     [SerializeField]
@@ -14,15 +14,15 @@ public class HudManager : MonoBehaviour {
 
     static Text ObjectCounter;
     static Text gameOver;
-    
 
-	// Use this for initialization
-	void Start ()
+
+    // Use this for initialization
+    void Start()
     {
         ObjectCounter = transform.FindChild("ObjectCounter").GetComponent<Text>();
         gameOver = transform.FindChild("GameOver").GetComponent<Text>();
     }
-	
+
     public void setLives(int lives, int player)
     {
         livesText.GetComponent<Text>().text = "x" + lives;
