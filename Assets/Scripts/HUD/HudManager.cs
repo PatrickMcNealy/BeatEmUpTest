@@ -5,9 +5,13 @@ using System;
 
 public class HudManager : MonoBehaviour {
 
-    public GameObject livesText;
-    public GameObject healthSlider;
-    public GameObject score;
+    [SerializeField]
+    GameObject livesText;
+    [SerializeField]
+    GameObject healthSlider;
+    [SerializeField]
+    GameObject score;
+
     static Text ObjectCounter;
     static Text gameOver;
     
