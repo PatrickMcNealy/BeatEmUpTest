@@ -12,7 +12,8 @@ public class DepthManager : MonoBehaviour {
     public int objectCount;
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
         GatherObjects();
     }
 	
@@ -54,7 +55,8 @@ public class DepthManager : MonoBehaviour {
 
 
     // Update is called once per frame
-    void Update() {
+    void Update()
+    {
 
         #region RemoveNulls
         //CHECK FOR NULLS AND REMOVE THEM FROM THE LIST.

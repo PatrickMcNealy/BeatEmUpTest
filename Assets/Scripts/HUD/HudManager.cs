@@ -17,16 +17,12 @@ public class HudManager : MonoBehaviour {
     
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
         ObjectCounter = transform.FindChild("ObjectCounter").GetComponent<Text>();
         gameOver = transform.FindChild("GameOver").GetComponent<Text>();
     }
 	
-	// Update is called once per frame
-	void Update () {
-	    
-	}
-
     public void setLives(int lives, int player)
     {
         livesText.GetComponent<Text>().text = "x" + lives;

@@ -9,12 +9,14 @@ public class GameOverTimer : MonoBehaviour {
     public object StateManager { get; private set; }
 
     // Use this for initialization
-    void Start () {
+    void Start ()
+    {
         GameCommands.SetGameManager(this.gameObject);
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
+	void FixedUpdate ()
+    {
 	    if(timer > 0)
         {
             timer--;

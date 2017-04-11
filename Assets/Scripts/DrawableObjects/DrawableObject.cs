@@ -33,8 +33,8 @@ public class DrawableObject : MonoBehaviour {
     public bool isShot = false;
 
     // Use this for initialization
-    void Start() {
-        
+    void Start()
+    {
         depthCheckBox = transform.FindChild("DepthCheck").GetComponent<Collider2D>();
         
 
@@ -50,12 +50,6 @@ public class DrawableObject : MonoBehaviour {
         }
     }
 	
-	// Update is called once per frame
-	void Update () {
-	    
-	}
-
-
     public void UpdateValues()
     {
         if (isCharacter)

@@ -6,6 +6,7 @@ public class MetDmgBox : MonoBehaviour {
     public GameObject groundGO;
     Transform groundTransform;
     static CharacterBase XSprite;
+
     // Use this for initialization
     void Start()
     {
@@ -14,7 +15,6 @@ public class MetDmgBox : MonoBehaviour {
 
     void OnTriggerStay2D(Collider2D other)
     {
-        
         if(XSprite == null)
         {
             XSprite = other.GetComponent<CharacterBase>();
@@ -22,7 +22,5 @@ public class MetDmgBox : MonoBehaviour {
         //Debug.Log("METHIT!");
         //SpriteBase asdf = other.GetComponent<SpriteBase>();
         XSprite.OnHit(true, 2, groundTransform.position.y);
-        
     }
-
 }

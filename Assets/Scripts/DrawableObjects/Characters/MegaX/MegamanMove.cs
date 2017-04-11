@@ -25,7 +25,8 @@ public class MegamanMove : MonoBehaviour {
     public HudManager hud;
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
         charStats = GetComponent<CharacterStats>();
         grav = megaman.GetComponent<Gravity>();
         animator = megaman.GetComponent<Animator>();

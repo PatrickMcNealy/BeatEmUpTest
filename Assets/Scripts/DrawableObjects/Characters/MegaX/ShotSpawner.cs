@@ -7,18 +7,13 @@ public class ShotSpawner : MonoBehaviour {
 
     public GameObject parent;
     Transform groundTransform;
-
-
+    
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
         groundTransform = parent.GetComponent<Transform>();
 	}
 	
-	// Update is called once per frame
-	void Update () {
-	
-	}
-
     public void SuperBlast()
     {
         GameObject blast = (GameObject)Instantiate(superBlast);

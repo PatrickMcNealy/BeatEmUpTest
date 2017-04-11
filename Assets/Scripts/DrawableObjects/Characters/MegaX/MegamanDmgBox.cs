@@ -8,7 +8,8 @@ public class MegamanDmgBox : MonoBehaviour {
     Transform groundTransform;
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
         anim = GetComponentInParent<Animator>();
         groundTransform = groundGO.GetComponent<Transform>();
 	}

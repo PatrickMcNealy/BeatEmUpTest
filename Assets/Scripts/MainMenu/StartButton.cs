@@ -5,14 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class StartButton : MonoBehaviour {
     
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+    {
 		if(Input.GetKeyDown(KeyCode.J) || Input.GetKeyDown(KeyCode.K) || Input.GetKeyDown(KeyCode.L))
         {
             SceneManager.LoadScene("map1");

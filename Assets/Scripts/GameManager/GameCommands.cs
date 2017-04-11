@@ -4,15 +4,6 @@ using System.Collections;
 public class GameCommands : MonoBehaviour {
 
     static GameObject manager;
-    // Use this for initialization
-    void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 
     public static void SetGameManager(GameObject newManager)
     {

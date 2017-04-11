@@ -11,11 +11,12 @@ public class MetSpawnScript : MonoBehaviour {
     public GameObject PlayerX;
     int topCount = 300;
 
-    DepthManager ds;
+    DepthManager depthManager;
 
 	// Use this for initialization
-	void Start () {
-        ds = GetComponent<DepthManager>();
+	void Start ()
+    {
+        depthManager = GetComponent<DepthManager>();
 	}
 	
 	// Update is called once per frame
@@ -24,7 +25,7 @@ public class MetSpawnScript : MonoBehaviour {
 
         if(frames % 150 == 0)//150
         {
-            if (ds.objectCount < 25)
+            if (depthManager.objectCount < 25)
             {
                 if (frames >= topCount)
                 {

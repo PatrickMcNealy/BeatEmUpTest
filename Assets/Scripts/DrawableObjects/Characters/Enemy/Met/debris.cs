@@ -9,12 +9,14 @@ public class debris : MonoBehaviour {
     Rigidbody2D rb2d;
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
         rb2d = GetComponent<Rigidbody2D>();
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+    {
         fallspeed -= 5f;
         rb2d.velocity = new Vector2(xDeviation, fallspeed);
 

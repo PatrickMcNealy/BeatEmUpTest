@@ -101,9 +101,5 @@ public class MetController : MonoBehaviour {
             anim.SetBool("HorizMove", false);
             //GetComponent<Rigidbody2D>().velocity = new Vector2(0f, 0f);
         }
-
-        
-
 	}
-    
 }

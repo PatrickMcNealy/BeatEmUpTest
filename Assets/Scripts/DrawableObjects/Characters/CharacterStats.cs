@@ -15,5 +15,4 @@ public class CharacterStats : MonoBehaviour {
             invFrames--;
         }
     }
-
 }

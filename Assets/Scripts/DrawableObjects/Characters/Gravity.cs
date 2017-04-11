@@ -30,8 +30,8 @@ public class Gravity : MonoBehaviour {
     }
 	
 	// Update is called once per frame
-	void FixedUpdate () {
-
+	void FixedUpdate ()
+    {
         //FALL HERE
         if (!grounded)
         {
@@ -93,9 +93,5 @@ public class Gravity : MonoBehaviour {
                 yVel = 0f;
             }
         }
-
-
-        
-
     }
 }
